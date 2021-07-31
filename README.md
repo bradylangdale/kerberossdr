@@ -31,16 +31,16 @@
 
 3. <h4>Install Dependencies via pip3:</h4>
 
-  `pip3 install numpy`<br>
-  `pip3 install matplotlib`<br>
-  `pip3 install scipy`<br>
-  `pip3 install cairocffi`<br>
-  `pip3 install pyapril`<br>
-  `pip3 install pyargus`<br>
-  `pip3 install pyqtgraph`<br>
-  `pip3 install peakutils`<br>
-  `pip3 install bottle`<br>
-  `pip3 install paste`<br>
+  `sudo pip3 install numpy`<br>
+  `sudo pip3 install matplotlib`<br>
+  `sudo pip3 install scipy`<br>
+  `sudo pip3 install cairocffi`<br>
+  `sudo pip3 install pyapril`<br>
+  `sudo pip3 install pyargus`<br>
+  `sudo pip3 install pyqtgraph`<br>
+  `sudo pip3 install peakutils`<br>
+  `sudo pip3 install bottle`<br>
+  `sudo pip3 install paste`<br>
 
 4. <h4>Install RTL-SDR-Kerberos Drivers</h4>
 
